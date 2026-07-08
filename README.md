@@ -2,22 +2,22 @@
 
 Um projeto simples de **cards de perfil responsivos** usando HTML e CSS.
 
-## ✨ Sobre
+## Sobre
 
 Este projeto demonstra como criar uma **página com múltiplos profile cards**, ideal para equipes, usuários ou portfólios.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - HTML
 - CSS
 
-## 🎯 Funcionalidades
+## Funcionalidades
 
 - Cards de perfil responsivos
 - Layout organizado em grid
 - Design moderno e limpo
 
-## 🚀 Como usar
+## Como usar
 
 1. Baixe ou clone o repositório  
 2. Abra o arquivo `index.html` no navegador 
